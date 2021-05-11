@@ -7,3 +7,5 @@ El resultado es un archivo de Excel con los resultados de la busqueda especifica
 El archivo de configuraciones se encuentra en la carpeta Data del bot, allí podran ser cambiadas rutas, paths, credenciales, etc. 
 
 Nota: De ser usado el orquestador, las credenciales deben estar almacenadas allí o por lo menos ser cifradas para que no esten expuestas en el archivo config.
+
+Cada ejecución que se realize el asistente hará limpieza de la carpeta mencionada anteriormente. 
